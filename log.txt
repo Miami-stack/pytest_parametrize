@@ -1,0 +1,10 @@
+williamsonerika@gmail.com   Проверка test_check_valid_email прошла успешно
+qjones@yahoo.com   Проверка test_check_valid_email прошла успешно
+wjohnson@gmail.com   Проверка test_check_valid_email прошла успешно
+brianna36@hotmail.com   Проверка test_check_valid_email прошла успешно
+mrussell@gmail.com   Проверка test_check_valid_email прошла успешно
+iMjzebu@tt   Проверка test_check_invalid_email прошла успешно
+PCzgBsCtest@test.   Проверка test_check_invalid_email прошла успешно
+UMDucQntest@test.   Проверка test_check_invalid_email прошла успешно
+zKFfPvdtest@test.   Проверка test_check_invalid_email прошла успешно
+sQbRnoHw@   Проверка test_check_invalid_email прошла успешно
